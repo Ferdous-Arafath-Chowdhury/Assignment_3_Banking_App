@@ -1,0 +1,19 @@
+{
+    "name": "lenovo/assignment_3",
+    "description": "Banking App",
+    "type": "library",
+    "require": {
+        "composer/composer": "^2.6"
+    },
+    "autoload": {
+        "psr-4": {
+            "Lenovo\\Assignment3\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Ferdous Arafath Chowdhury",
+            "email": "ferdousarafathchowdhury@gmail.com"
+        }
+    ]
+}
